@@ -1,52 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-
   <url>
     <loc>https://applysathi.netlify.app/</loc>
+    <lastmod>2025-07-18</lastmod>
     <priority>1.0</priority>
     <changefreq>weekly</changefreq>
   </url>
-
   <url>
-    <loc>https://applysathi.netlify.app/#credit-cards</loc>
+    <loc>https://applysathi.netlify.app/credit-cards</loc>
+    <lastmod>2025-07-18</lastmod>
     <priority>0.9</priority>
     <changefreq>weekly</changefreq>
   </url>
-
   <url>
-    <loc>https://applysathi.netlify.app/#loans</loc>
+    <loc>https://applysathi.netlify.app/loans</loc>
+    <lastmod>2025-07-18</lastmod>
     <priority>0.9</priority>
     <changefreq>weekly</changefreq>
   </url>
-
   <url>
-    <loc>https://applysathi.netlify.app/#mutual-funds</loc>
+    <loc>https://applysathi.netlify.app/mutual-funds</loc>
+    <lastmod>2025-07-18</lastmod>
     <priority>0.8</priority>
     <changefreq>monthly</changefreq>
   </url>
-
   <url>
-    <loc>https://applysathi.netlify.app/#investment-accounts</loc>
+    <loc>https://applysathi.netlify.app/investment-accounts</loc>
+    <lastmod>2025-07-18</lastmod>
     <priority>0.8</priority>
     <changefreq>monthly</changefreq>
   </url>
-
   <url>
-    <loc>https://applysathi.netlify.app/#demat</loc>
+    <loc>https://applysathi.netlify.app/demat</loc>
+    <lastmod>2025-07-18</lastmod>
     <priority>0.7</priority>
     <changefreq>monthly</changefreq>
   </url>
-
   <url>
-    <loc>https://applysathi.netlify.app/#savings</loc>
+    <loc>https://applysathi.netlify.app/savings</loc>
+    <lastmod>2025-07-18</lastmod>
     <priority>0.7</priority>
     <changefreq>monthly</changefreq>
   </url>
-
   <url>
-    <loc>https://applysathi.netlify.app/#fd</loc>
+    <loc>https://applysathi.netlify.app/fd</loc>
+    <lastmod>2025-07-18</lastmod>
     <priority>0.7</priority>
     <changefreq>monthly</changefreq>
   </url>
-
 </urlset>
